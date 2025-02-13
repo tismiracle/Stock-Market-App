@@ -22,12 +22,12 @@ Python version:
 - Python 3.x
 
 Libraries:
-- tkinter – for building the graphical user interface.
-- matplotlib – for generating charts.
-- ctypes, platform, subprocess, re – for operating system handling and data processing.
-- json – for modifying JSON files.
-- pandas – for loading data files.
-- requests – for sending requests to the API server.
+- `tkinter` – for building the graphical user interface.
+- `matplotlib` – for generating charts.
+- `ctypes`, `platform`, `subprocess`, `re` – for operating system handling and data processing.
+- `json` – for modifying JSON files.
+- `pandas` – for loading data files.
+- `requests` – for sending requests to the API server.
 
 ## Startup Guide
 1. Install Required Libraries
@@ -41,7 +41,7 @@ Note: tkinter is included by default in most Python distributions.
 Before running the application, obtain your own API key from the Alpha Vantage website.
 
 3. Run the Application
-Execute the program from the projektNew.py file:
+Execute the program from the `projektNew.py` file:
 `python projektNew.py`
 
 4. Enter API Key
