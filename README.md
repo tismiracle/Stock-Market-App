@@ -32,7 +32,9 @@ Libraries:
 ## Startup Guide
 1. Install Required Libraries
 Ensure you have all the necessary libraries installed. You can install them using:
+
 `pip install matplotlib pandas requests`
+
 Note: tkinter is included by default in most Python distributions.
 
 2. Prepare Your API Key
